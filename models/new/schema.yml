@@ -1,0 +1,7 @@
+
+version: 2
+
+models:
+  - name: incremental_time
+    description: "this is a incremental table"
+    
